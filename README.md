@@ -3,8 +3,7 @@
 Hello, I'm [HD](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
 
 - 👨‍💼 I currently work in hefei,China.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
-- 📺 I currently learn C++ Network and Windows HOOK. 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn C++ Network and Windows HOOK. 
 - 📫 How to reach me: (hd1504134593@gmail.com)
 <!--
 - 👯 I’m looking to collaborate on ...
