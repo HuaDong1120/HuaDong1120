@@ -15,6 +15,6 @@ Hello, I'm [HD](https://huadong1120.github.io/), A C++ developer:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fusion Zhu's Github Stats](https://github-readme-stats.vercel.app/api?username=HuaDong1120&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Fusion Zhu's Github Stats](https://github-readme-stats.vercel.app/api?username=HuaDong1120&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
