@@ -16,3 +16,5 @@ Hello, I'm [HD](https://huadong1120.github.io/), A C++ developer:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaDong1120)](https://github.com/anuraghazra/github-readme-stats)
