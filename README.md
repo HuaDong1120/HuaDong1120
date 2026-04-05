@@ -17,6 +17,6 @@ Hello, I'm [HD](https://huadong1120.github.io/), A C++ developer:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaDong1120&show_icons=true&theme=radical)
+![Anurag's GitHub stats](github-readme-stats-huadong1120s-projects.vercel.app/api?username=HuaDong1120&show_icons=true&theme=radical)
 
 
